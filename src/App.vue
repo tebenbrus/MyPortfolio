@@ -1,6 +1,6 @@
 <template>
   <div>
-    <NavBar />
+    <navbar />
     <transition
       enter-active-class="transition-opacity duration-500"
       leave-active-class="transition-opacity duration-500"
@@ -16,11 +16,11 @@
 </template>
 
 <script>
-import NavBar from '@/components/NavBar.vue';
+import navbar from '@/components/navbar.vue';
 
 export default {
   components: {
-    NavBar
+    navbar
   }
 };
 </script>
