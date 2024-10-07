@@ -12,26 +12,25 @@
       </div>
     </div>
 
-    <!-- hover and animation with shadows -->
     <div data-aos="fade-up" class="text-center">
-      <h1 class="text-4xl font-bold mb-2 hover:text-blue-500 transition-colors duration-500 hover:shadow-lg">
+      <h1 class="text-4xl font-bold mb-2 hover:text-blue-500 transition-colors duration-500 ">
         Steven Bruce Asis
       </h1>
-      <h2 class="text-1xl font-bold mb-2 hover:text-blue-500 transition-colors duration-500 hover:shadow-lg">
+      <h2 class="text-1xl font-bold mb-2 hover:text-blue-500 transition-colors duration-500 ">
         Aspiring Data Analyst
       </h2>
-      <p class="text-lg text-gray-600 mb-2 hover:text-blue-500 transition-colors duration-500 hover:shadow-lg">
+      <p class="text-lg text-gray-600 mb-2 hover:text-blue-500 transition-colors duration-500 ">
         Age: 22
       </p>
-      <p class="text-lg text-gray-600 mb-2 hover:text-blue-500 transition-colors duration-500 hover:shadow-lg">
+      <p class="text-lg text-gray-600 mb-2 hover:text-blue-500 transition-colors duration-500 ">
         Email: bruceasis0@gmail.com
       </p>
-      <p class="text-lg text-gray-600 mb-2 hover:text-blue-500 transition-colors duration-500 hover:shadow-lg">
+      <p class="text-lg text-gray-600 mb-2 hover:text-blue-500 transition-colors duration-500 ">
         Motorola St. Doña Nicasia Puyat Subdivision, Brgy. Commonwealth, Quezon City
       </p>
     </div>
 
-    <!-- Social Media Links with shadows -->
+    <!-- Social Media -->
     <div class="flex space-x-6 mt-4 justify-center" data-aos="fade-up">
       <!-- LinkedIn -->
       <a href="https://www.linkedin.com/in/steven-asis/" target="_blank" class="hover:scale-110 transform transition-transform duration-300 hover:shadow-xl">
