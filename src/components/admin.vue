@@ -250,7 +250,7 @@
       return {
         activeTab: "home",
         homePage: {
-          profilePicture: "https://example.com/profile.jpg",
+          profilePicture: "@/assets/profile.jpg",
           name: "Steven Bruce Asis",
           profession: "Aspiring Data Analyst",
           age: 22,
@@ -271,10 +271,10 @@
         },
         resumePage: {
           certificates: [
-            "https://example.com/cert1.jpg",
-            "https://example.com/cert2.jpg",
+            "@assets/certificate0.jpg",
+            "@assets/certificate1.jpg",
           ],
-          resumeURL: "https://example.com/resume.pdf",
+          resumeURL: "@/assets/CV.jpg",
         },
       };
     },
