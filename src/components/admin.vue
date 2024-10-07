@@ -262,8 +262,8 @@
           phoneNumber: "+639456104330",
         },
         aboutPage: {
-          profilePicture: "https://example.com/profile.jpg",
-          description: "I am a 4th-year Computer Science student...",
+          profilePicture: "@/assets/image.jpg",
+          description: "I am currently a 4th Year college student pursuing a Bachelor of Science in Computer Science at New Era University. Throughout my academic journey, I have developed a strong foundation in programming, data analysis, and problem-solving. I identify myself as hard-working, responsible, and persistent in overcoming challenges and constantly pushing myself to improve. I am deeply passionate about using data to uncover insights and drive meaningful decisions. With a strong interest in data analytics, I aim to build a career as a Data Analyst where I can leverage my skills in data visualization, statistical analysis, and data manipulation to help organizations make informed decisions.",
           skills: [
             { name: "JavaScript", percentage: 70 },
             { name: "VueJS", percentage: 60 },
